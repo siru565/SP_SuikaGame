@@ -1,4 +1,4 @@
-# 🍉 Suika Game (수박게임)
+# 🍉 SUPER Suika Game (초능력 수박게임)
 
 > Unity 6로 개발한 2D 물리 기반 과일 합체 퍼즐 게임
 
