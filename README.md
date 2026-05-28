@@ -87,6 +87,8 @@ Assets/
 
 ## 🚀 설치 및 실행
 
+''itch.io 업로드 예정입니다.''
+
 ### 요구 사항
 - Unity 6 (6000.4.1f1) 이상
 - Unity Input System 패키지
