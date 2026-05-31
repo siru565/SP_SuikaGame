@@ -87,29 +87,8 @@ Assets/
 
 ## 🚀 설치 및 실행
 
-''itch.io 업로드 예정입니다.''
-
-### 요구 사항
-- Unity 6 (6000.4.1f1) 이상
-- Unity Input System 패키지
-- TextMeshPro 패키지
-
-### 실행 방법
-
-```bash
-# 저장소 클론
-git clone https://github.com/username/suika-game.git
-
-# Unity Hub에서 프로젝트 열기
-# Open → 클론한 폴더 선택
-```
-
-1. Unity Hub에서 **Open** 클릭
-2. 클론한 폴더 선택
-3. Unity 6으로 프로젝트 열기
-4. `Scenes/StartScene` 을 열고 플레이 버튼 클릭
-
----
+### Itch.io link 
+https://hamark.itch.io/sp-suikagame
 
 ## ✅ 개발 현황
 
